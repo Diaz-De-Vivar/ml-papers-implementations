@@ -11,7 +11,6 @@
 }
 ```
 
-@saxena-mayur
 https://github.com/saxena-mayur/Weight-Uncertainty-in-Neural-Networks
 </br>
 https://github.com/danielkelshaw/WeightUncertainty

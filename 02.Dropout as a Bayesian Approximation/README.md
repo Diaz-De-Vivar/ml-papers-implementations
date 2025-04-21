@@ -12,8 +12,8 @@
 }
 ```
 
-<!-- https://github.com/saxena-mayur/Weight-Uncertainty-in-Neural-Networks -->
+https://github.com/yaringal/DropoutUncertaintyExps -->
 <!-- </br> -->
-<!-- https://github.com/danielkelshaw/WeightUncertainty -->
+<!-- https://github.com/whilo/bdropout
 
 ###### PyTorch implementation of [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142)

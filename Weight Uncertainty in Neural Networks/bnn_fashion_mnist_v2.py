@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Implementation of Bayes by Backprop (Weight Uncertainty in Neural Networks)
+Paper: https://arxiv.org/abs/1505.05424
+Dataset: Fashion MNIST
+Framework: PyTorch
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -6,7 +14,7 @@ from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 import math
 import os
-from tqdm import tqdm // For progress bars
+from tqdm import tqdm
 
 # --- Configuration ---
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")

@@ -12,6 +12,7 @@
 ```
 
 https://github.com/saxena-mayur/Weight-Uncertainty-in-Neural-Networks
+</br>
 https://github.com/danielkelshaw/WeightUncertainty
 
 ###### PyTorch implementation of [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf)
